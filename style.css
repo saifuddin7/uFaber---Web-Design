@@ -1,0 +1,139 @@
+.registration{
+    
+    padding: 6% 0px 20px 0px;
+    background-color: #FDF2E9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.coloumn1{
+    word-spacing: 3px;
+    font-weight: lighter;
+    float: right;
+    padding-left: 15%;
+}
+
+.top-para{
+    text-align: center;
+    padding-top: 20px;
+}
+.box{
+    background-color: white;
+    box-shadow: 10px 10px 10px #E8DAEF;
+    box-sizing: border-box;
+    border-radius: 10px;
+    height: 550px;
+    width: 385px;
+    margin-left: 42px;
+    
+}
+form{
+    padding: 10px 40px 0px 40px;
+  
+}
+.form-body,select{
+  width: 330px;
+  margin-bottom: 30px;
+}
+.form-body button{
+    width: 330px;
+    background-image: linear-gradient(to right,#9D8CD0,#B99CFF,#C580D2);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+}
+
+
+.main .heading-text{
+    font-size: larger;
+    font-weight: bolder;
+}
+.main-1{
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px #E8DAEF;
+    border-radius: 10px;
+    margin: 20px 15% 0px 15%;
+    overflow: hidden;
+}
+.main-1 p{
+    background-color: #FDF2E9;
+    padding: 20px 0px 20px 0px;
+    
+}
+.main-1 ul{
+    display: inline;
+    float: right;
+    margin: 10px 3% 0px 0px;
+    word-spacing: 2px;
+    font-size: larger;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.main-2{
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-image: linear-gradient(to left,#9B29E9,#5226ED);
+    color: white;
+    margin: 10px 30% 0px 30%;
+    padding: 10px 10px 10px 10px;
+}
+.main-2 p{
+    display: inline;
+    float: right;
+    margin: 10px 20% 0px 0px;
+}
+.main-2 span{
+    display: block;
+    padding-top: 10px;
+    text-align: center;
+}
+.main-2 img{
+    margin: 0px 0px 0px 17%;
+    border-radius: 35px;
+}
+video{
+    margin: 0px 0px 0px 30%;
+    
+}
+
+.container2{
+    background-color: #FDF2E9;
+    margin: 60px 0px 10px 0px;
+    justify-content: center;
+    height: 276px;
+}
+
+.con2-element{
+    padding: 40px 0px 0px 25%;
+}
+.con2-element2{
+    margin: 40px 35% 0px 0px;
+    float: right;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.con2-element2 button{
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-image: linear-gradient(to left,#9B29E9,#5226ED);
+    margin-bottom: 20px;
+    height: 40px;
+    width: 70%;
+}
+
+.con3-element{
+    float: right;
+    text-align: right;
+    clear: both;
+}
+.con3-element p,.con3-element2 p{
+    height: 40px;
+    text-align: center;
+    width: 300px;
+}
+.con3-element2{
+    float: left;
+    text-align: left;
+    clear: both;
+}
